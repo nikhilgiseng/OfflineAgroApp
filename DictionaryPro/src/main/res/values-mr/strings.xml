@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">माझे कृषी</string>
+    <string name="navigation_drawer_open">नेव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नेव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="nav_drawer_heading_wordbook">शेती</string>
+    <string name="nav_drawer_row_browse_wordbook">ब्राउझ</string>
+    <string name="nav_drawer_row_favorites">आवडते</string>
+    <string name="nav_drawer_row_history">इतिहास</string>
+    <string name="nav_drawer_row_weather">हवामान</string>
+    <string name="nav_drawer_heading_grammar"></string>
+    <string name="nav_drawer_row_browse_grammar"></string>
+    <string name="nav_drawer_row_bookmarks"></string>
+    <string name="search_hint">कृषी शोध</string>
+    <string name="search_description">कृषी नोंदी</string>
+    <string name="search">शोध</string>
+    <string name="action_clear_history">इतिहास साफ करा</string>
+    <string name="action_feedback">अभिप्राय पाठविण्यासाठी</string>
+    <string name="title_wordbook">शेती</string>
+    <string name="title_subdict"></string>
+    <string name="title_wordbook_browse">बराउझ</string>
+    <string name="title_wordbook_favorites">आवडते</string>
+    <string name="title_wordbook_history">इतिहास</string>
+    <string name="title_subdict_browse"></string>
+    <string name="title_subdict_bookmarks"></string>
+    <string name="toast_clear_history">इतिहास साफ केला.</string>
+    <string name="action_add_favorite">जोडा</string>
+    <string name="action_sound">आवाज</string>
+    <string name="action_remove_favorite">आवडी मधून काढा</string>
+    <string name="toast_search_no_results">कोणतेही परिणाम नाहीत.</string>
+    <string name="action_add_bookmark">बुकमार्क जोडा</string>
+    <string name="action_remove_bookmark">बुकमार्क काढा</string>
+    <string name="action_key">कीबोर्ड </string>
+    <string name="action_help">मदत</string>
+    <string name="action_">कीबोर्ड </string>
+    <string name="action_clear_favorites">आवडी साफ करा.</string>
+    <string name="action_clear_bookmarks">बुकमार्क साफ करा.</string>
+    <string name="feedback_email">abc@gmail.com</string>
+    <string name="feedback_subject">शोध? अभिप्राय</string>
+    <string name="feedback_intent_chooser">द्वारे अभिप्राय पाठवा</string>
+    <string name="toast_clear_wordbook_favorites">आवडते केला आहे.</string>
+    <string name="clear_wordbook_favorites_dialog_message">आपली खात्री आहे की आपण कायमचे आपल्या आवडी सूची साफ करू इच्छिता आहे?</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="cancel">रद्द</string>
+    <string name="clear_subdict_bookmarks_dialog_message">आपली खात्री आहे की आपण आपले बुकमार्क सूची साफ करू इच्छिता आहे?</string>
+    <string name="toast_clear_subdict_bookmarks">बुकमार्क साफ केली..</string>
+    <string name="toast_favorite_added">आवडते आहे.</string>
+    <string name="toast_favorite_removed">आवडत्या काढले.</string>
+    <string name="toast_bookmark_added">बुकमार्क जोडला..</string>
+    <string name="toast_bookmark_removed">ुकमार्क साफ केली..</string>
+    <string name="wordbook_favorites_empty_view">
+        या यादीत आपली शेती जतन करण्यासाठी आवडते चिन्ह जोडा टॅप करा.
+    </string>
+    <string name="wordbook_history_empty_view">आपला इतिहास रिक्त आहे.</string>
+    <string name="subdict_bookmarks_empty_view">
+       या यादीत आपली शेती जतन करण्यासाठी आवडते चिन्ह जोडा टॅप करा.
+    </string>
+    <string name="title_help">मदत</string>
+    <string name="message_help">
+<![CDATA[
+        <p>
+           Please Contact Kisan Call Center-1800-180-1551!!!!!
+        </p>
+        </p>
+        ]]>
+    </string>
+    <string name="title_about">About</string>
+    <!--
+         NOTE: I'm currently displaying the following string in a TextView, not a WebView, so some
+         of these tags are ignored, and I've added a few extra <br> tags in the list at the end.
+    -->
+    <string name="message_about">
+<![CDATA[
+        <p>
+            My Agriculture App Design by abc@gmail.com.
+        </p>
+        ]]>
+    </string>
+    <string name="subdict_footer">
+<![CDATA[
+        <p></p>
+        ]]>
+    </string>
+
+    <string name="apache_license" tools:ignore="TypographyOther">
+
+    </string>
+    <string name="pref_textSize">
+अक्षराचा आकार</string>
+    <string name="title_activity_settings">
+सेटिंग्ज</string>
+    <string name="pref_textSize_item_small">
+लहान</string>
+    <string name="pref_textSize_item_medium">
+मध्यम</string>
+    <string name="pref_textSize_item_large">
+मोठ्या</string>
+    <string name="settings">
+सेटिंग्ज</string>
+    <string name="pref_textSize_key">PREF_TEXT_SIZE_KEY</string>
+    <string name="version">"
+आवृत्ती 1.0"</string>
+    <string name="pref_about_key">PREF_ABOUT_KEY</string>
+    <string name="pref_onePane_key">PREF_ONE_PANE_KEY</string>
+    <string name="pref_onePane">
+शब्द सूची लपवा</string>
+    <string name="pref_onePane_summary">
+
+बाकी पेन मोड ब्राउझ शब्द यादी प्रदर्शित लपवा
+    </string>
+    <string name="action_viewonweb_tool">
+वेबसाइट वर पहा</string>
+    <string name="subtitle_viewonweb_tool">
+वेबसाईट शब्दकोश</string>
+    <string name="webview_error">"
+त्रुटी: "</string>
+    <string name="dialog_no_network_connection">
+        "आपण हे वैशिष्ट्य वापरण्यासाठी इंटरनेटशी कनेक्ट करणे आवश्यक आहे."
+    </string>
+    <string name="pref_viewonweb_tool_key">PREF_VIEWONWEB_TOOL_KEY</string>
+    <string name="pref_viewonweb_tool">लपवा \"वेबसाइट वर पहा\" पर्याय</string>
+    <string name="pref_typeface_key">PREF_TYPEFACE_KEY</string>
+    <string name="pref_typeface">
+टाइपफेस</string>
+    <string name="pref_typeface_notoSerif">Noto Serif</string>
+    <string name="pref_typeface_roboto">Roboto</string>
+    <string name="pref_typeface_default">@string/pref_typeface_roboto</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/63009781</string>
+
+
+    <string name="title_activity_welcome">होम स्क्रीन</string>
+    <string name="next">
+पुढे</string>
+    <string name="skip">
+टाळा</string>
+    <string name="start">समजले</string>
+
+    <string name="slide_1_title">कृषी!</string>
+    <string name="slide_1_desc">कृषी आणि नैसर्गिक संसाधने!</string>
+
+    <string name="slide_2_title">ताज्या सर्वोत्तम आहे!</string>
+    <string name="slide_2_desc">
+जेथे सेवा सीझन मध्ये नेहमी आहे!</string>
+
+    <string name="slide_3_title">कृषी आवाज!</string>
+    <string name="slide_3_desc">पासून ग्राउंड अप शेत सेवा!</string>
+
+    <string name="slide_4_title">Nutrisian कृषी</string>
+    <string name="slide_4_desc">जमीन Scapes पाने!</string>
+
+    <string name="play_again_desc">पुन्हा आपले स्वागत आहे स्लायडर पाहण्यासाठी, कडे जा सेटिंग्ज -> अनुप्रयोग -> आपले स्वागत आहे स्लायडर -> माहिती पुसून टाका</string>
+    <string name="play_again">
+परत खेळ</string>
+
+    <string name="_city">शहर बदला</string>
+
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">c5c21d7fa022644377d89643b3d15ea0</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="place_not_found">
+क्षमस्व, हवामान डेटा आढळला नाही.</string>
+    <string name="about">About Us</string>
+    <string name="share">Share it</string>
+    <string name="contactus">Contact Us</string>
+
+    <string-array name="lang">
+        <item>चंद्रपुर</item>
+        <item>कोल्हापूर</item>
+        <item>मुंबई</item>
+        <item>पुणे</item>
+        <item>जळगाव</item>
+        <item>नाशिक</item>
+        <item>बुलढाणा</item>
+        <item>अमरावती</item>
+        <item>यवतमाळ</item>
+
+    </string-array>
+</resources>
